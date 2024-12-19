@@ -1,0 +1,22 @@
+body {
+    padding-top: 70px;
+}
+
+.jumbotron {
+    background-size: cover;
+    background-position: center;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link.active {
+    color: #ffc107 !important;
+}
